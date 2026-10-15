@@ -1,0 +1,14 @@
+Legacy Modernization Assessor: eval evidence
+Copyright 2026 Sparq Holdings, Inc.
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+This repository holds assessments of AWS CardDemo made by the Legacy
+Modernization Assessor plugin:
+https://github.com/aws-samples/aws-mainframe-modernization-carddemo
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+CardDemo is licensed under the Apache License, Version 2.0.
+
+CardDemo source is not copied into this repository. The saved runs under
+runs/carddemo-*/ and examples/carddemo/graph.json cite and analyze its
+source files. They are derived from CardDemo and carry its attribution.
